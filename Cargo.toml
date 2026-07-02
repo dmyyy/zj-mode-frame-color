@@ -1,8 +1,8 @@
 [package]
-name = "rust-plugin-example"
+name = "zj-mode-frame-color"
 version = "0.1.0"
-authors = ["Aram Drevekenin <aram@poor.dev>"]
-edition = "2018"
+edition = "2024"
 
 [dependencies]
+regex = "1.12.4"
 zellij-tile = "0.44.0"
